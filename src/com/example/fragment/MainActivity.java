@@ -13,7 +13,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 public class MainActivity extends FragmentActivity implements OnClickListener {
-   //11
+   //’‚ «∞Ê±æ1
 	private LinearLayout tab1;
 	private LinearLayout tab2;
 	private LinearLayout tab3;
